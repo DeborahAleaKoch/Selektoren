@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+section {
+    background-color: #A5D6A7;
+    /* padding-bottom: 10px; */
+}
+
+h1 {
+    background-color:#4DD0E1;
+}
+
+section p {
+    background-color: #C5CAE9;
+    margin: 20px 0px;
+}
+
+h2 {
+    background-color: #7986cb;
+}
+
+article {
+    background-color: #F48FB1;
+}
+
+article p {
+    background-color: #ff8a65;
+    margin: 20px 0px 20px 0px;
+}
+
+button {
+    background-color: #304FFE;
+    color: whitesmoke;
+    box-shadow: inset;
+    
+}
